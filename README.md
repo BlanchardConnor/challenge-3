@@ -53,7 +53,7 @@ Once the link is deployed, the user will be brought to the site. When the user c
 * [Deployed Site]
 * [Repository Link]
 
-[Deployed Site]:
+[Deployed Site]: https://blanchardconnor.github.io/challenge-3-Randomized-Password-Generator/
 [Repository Link]: https://github.com/BlanchardConnor/challenge-3-Randomized-Password-Generator
 
 ### Credits
